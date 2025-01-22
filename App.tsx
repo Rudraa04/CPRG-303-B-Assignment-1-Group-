@@ -21,7 +21,7 @@ export default function App() {
           <Text style={styles.Text2}>Calgary, AB</Text>
           
           <Image
-            source={require('./assets/image.jpeg')}
+            source={require('./assets/harshil.jpg.jpeg')}
             style={styles.image}
           />
           <Image
